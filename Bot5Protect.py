@@ -1822,7 +1822,7 @@ def bot(op):
                               random.choice(KAC).sendText(msg.to,"Koq Ga Ditangkis Njiiing?\nLemah Banget Nih Room")
 
         #----------------Fungsi Kick User Target Start----------------------#
-            elif "Cipok","Muach" in msg.text:
+            elif ["Cipok","Muach"] in msg.text:
               if msg.from_ in owner:
                  targets = []
                  key = eval(msg.contentMetadata["MENTION"])
