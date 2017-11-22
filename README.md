@@ -31,7 +31,7 @@ Cara Instal :
 - pip2 install requests
 
 Cara Menjalankan Botnya :
-- cd Radisti5Bot
+- cd Bot5Protect
 - python2 Bot5Protect.py
 
 Thanks For :
