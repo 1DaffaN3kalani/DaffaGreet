@@ -1,6 +1,6 @@
 # RadistiTeam5Bot
 Bot Protect Versi  1 admin dan 5  Bot
-# RadistiTeam 5 Bot
+# RadistiTeam5Bot
 Radisti BOT Protect
 Versi TCR
 =======================================
@@ -25,20 +25,20 @@ Cara Instal :
 - pkg install python -y
 - pkg install python2 -y
 - pkg install git -y
-- git clone https://github.com/koplaxs/Koplaxs5Bot
+- git clone https://github.com/1DaffaN3kalani/Bot5Protect
 - pip2 install rsa
 - pip2 install thrift==0.9.3
 - pip2 install requests
 
 Cara Menjalankan Botnya :
 - cd Radisti5Bot
-- python Radisti5Bot.py
+- python2 Bot5Protect.py
 
 Thanks For :
--Koplaxs
+- Koplaxs
 - Alfathdirk
 - Farzain
 - Dan Kawan²
 ================================
-Koplaxs & One Piece Team Protect
+Radisti & One Piece Team Protect
 ================================
